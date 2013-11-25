@@ -3,7 +3,7 @@ Android-Bitly-API
 
 Simple Class to implement a Bitly URL in a Android project.
 
-For implemnt, copy this class into your project and in your activity or function call this way:
+For implemnt, copy this class ( BitlyAndroid.java ) into your project and in your activity or function call this way:
 
 
   BitlyAndroid bitly = new BitlyAndroid("bitlyapidemo", "R_0da49e0a9118ff35f52f629d2d71bf07");
